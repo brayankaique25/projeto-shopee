@@ -1,29 +1,35 @@
-🛒 Simulação de Carrinho de Compras (JavaScript)
-Este projeto é uma simulação simples de um carrinho de compras, desenvolvido utilizando JavaScript puro, com foco em organização de código e lógica básica.
+# 🧑‍💻 Portfólio — Projeto Carrinho de Compras em JavaScript
 
-📌 Objetivo
-Criar um sistema que permita adicionar, remover, listar produtos e calcular o total de um carrinho de compras.
+## 🛒 Simulação de Carrinho de Compras
 
-🧠 Estrutura do Projeto
-item.js → Responsável pela criação dos produtos
-cart.js → Contém a lógica do carrinho
-app.js → Executa a simulação
-⚙️ Funcionalidades
-Adicionar produtos ao carrinho
-Remover produtos
-Listar itens do carrinho
-Calcular valor total
-▶️ Como Executar
-Instale o Node.js
-Baixe ou clone este repositório
-No terminal, execute:
-node app.js
-💡 Aprendizados
-Organização de código em módulos
-Uso de classes em JavaScript
-Lógica de programação aplicada
-🚀 Melhorias Futuras
-Adicionar quantidade de produtos
-Criar interface visual
-Implementar sistema de desconto
-Projeto desenvolvido para fins de estudo 💻
+Desenvolvi um projeto simples de carrinho de compras utilizando JavaScript puro, com foco em lógica de programação, organização de código e modularização.
+
+O sistema permite adicionar, remover e listar produtos no carrinho, além de calcular automaticamente o valor total da compra.
+
+---
+
+## 🚀 Tecnologias Utilizadas
+
+- JavaScript
+- Node.js
+- Programação Orientada a Objetos (POO)
+
+---
+
+## 📌 Funcionalidades
+
+✅ Adicionar produtos ao carrinho  
+✅ Remover produtos  
+✅ Listar itens adicionados  
+✅ Calcular valor total da compra  
+✅ Organização do projeto em módulos
+
+---
+
+## 📁 Estrutura do Projeto
+
+```bash
+📦 carrinho-compras
+ ┣ 📜 item.js
+ ┣ 📜 cart.js
+ ┗ 📜 app.js
